@@ -1,0 +1,25 @@
+[
+  {
+      "kullanici_adi" : "sefa",
+      "sifre" : "123123",
+      "yetki" : 0
+  },
+
+  {
+    "kullanici_adi" : "google",
+    "sifre" : "123123",
+    "yetki" : 1
+  },
+
+  {
+    "kullanici_adi" : "özcan",
+    "sifre" : "123123",
+    "yetki" : 2
+  },
+
+  {
+    "isyeri_adi" : "Tai",
+    "nerede" : "Ankara",
+    "yayinda_olma_suresi" : 4
+  }
+]

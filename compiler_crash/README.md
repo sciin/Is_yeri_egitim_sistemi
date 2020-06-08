@@ -1,6 +1,6 @@
-# flutterprojeapp
+# compiler_crash
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 

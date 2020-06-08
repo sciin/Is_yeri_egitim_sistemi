@@ -1,0 +1,45 @@
+[
+  {
+      "isyeri_adi" : "Google",
+      "konum" : "İstanbul(Asya)",
+      "icerik" : "-Üniversitenin ilgili mühendislik bölümlerinden mezun,\n-En az 2 yıl .Net teknolojileri ile uygulama gelişrme tecrübesi olan,\n-Ekip çalışmasına yatkın.\n\nŞirket bünyesinde veya müşteri lokasyonunda geliştirmekte olduğumuz projelerde aktif olarak geliştirme yapacak .Net Software Developer aramaktayız.",
+      "yayinda_olma_suresi" : 3,
+      "resim_yolu" : "assets/images/google.jpg",
+      "mail" : "info@google.com",
+      "telefon" : "(0312) 700 01 01",
+      "adres"  : "Balgat, Oğuzlar Mah. 1397 Cad. No: 11/2-1, 06520 Çankaya/Ankara"
+  },
+
+  {
+    "isyeri_adi" : "Havelsan",
+    "konum" : "Ankara",
+    "icerik" : "-Lisans mezunu,\n-Azimli ve istekli kişiler başvuruda bulunabilir.",
+    "yayinda_olma_suresi" : 2,
+    "resim_yolu" : "assets/images/google.jpg",
+    "mail" : "info@havelsan.com",
+    "telefon" : "(0312) 750 50 50",
+    "adres"  : "Balgat, Oğuzlar Mah. 1397 Cad. No: 11/2-1, 06520 Çankaya/Ankara"
+  },
+  {
+    "isyeri_adi" : "Tusaş",
+    "konum" : "Ankara",
+    "icerik" : "-Lisans mezunu,\n-Azimli ve istekli kişiler başvuruda bulunabilir.",
+    "yayinda_olma_suresi" : 2,
+    "resim_yolu" : "assets/images/google.jpg",
+    "mail" : "info@havelsan.com",
+    "telefon" : "(0312) 750 50 50",
+    "adres"  : "Balgat, Oğuzlar Mah. 1397 Cad. No: 11/2-1, 06520 Çankaya/Ankara"
+  },
+  {
+    "isyeri_adi" : "Tai",
+    "konum" : "Ankara",
+    "icerik" : "-Lisans mezunu,\n-Havacılık alanlarına ilgisi olan kişiler başvuruda bulunabilir.",
+    "yayinda_olma_suresi" : 2,
+    "resim_yolu" : "assets/images/google.jpg",
+    "mail" : "info@havelsan.com",
+    "telefon" : "(0312) 750 50 50",
+    "adres"  : "Balgat, Oğuzlar Mah. 1397 Cad. No: 11/2-1, 06520 Çankaya/Ankara"
+  }
+
+
+]
